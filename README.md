@@ -27,18 +27,17 @@ CloudNova AI is a web-based personal AI workspace built with **FastAPI**, a resp
 
 ## 📸 Application Screenshots
 
-### 1. Login page
-![CloudNova AI login page](docs/screenshots/login.png)
+### 1. Login Page
+![CloudNova AI login page](login.png)
 
-### 2. Main workspace
-![CloudNova AI main workspace](docs/screenshots/workspace.png)
+### 2. Main Workspace
+![CloudNova AI main workspace](workspace.png)
 
-### 3. AI chat response
-![CloudNova AI chat response](docs/screenshots/chat-response.png)
+### 3. AI Chat Response
+![CloudNova AI chat response](chat-response.png)
 
-### 4. Topic images
-![CloudNova AI topic images](docs/screenshots/topic-images.png)
-
+### 4. Topic Images
+![CloudNova AI topic images](topic-images.png)
 ## 🚀 Run Locally
 
 ### Prerequisites
